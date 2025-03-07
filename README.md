@@ -3,7 +3,7 @@
 
 ![Preview](./img/output.png) <!-- Add a GIF/video preview here -->
 
-**Live Demo:** [https://github.com/Aoudumber-Bade/Womens-day-surprise.git](https://happy-womens-dayy.netlify.app/) <!-- Add your hosted link here -->  
+**Live Demo:** [https://happy-womens-dayy.netlify.app/](https://happy-womens-dayy.netlify.app/) <!-- Add your hosted link here -->  
 
 ## 🌟 Story Behind the Code  
 I built this interactive website to surprise my girlfriend on **Women’s Day**! It features a hidden 3D rotating heart, custom cursor animations, and a heartfelt message. When she clicks "OPEN", the love page reveals a **360° interactive heart** with "I LOVE YOU" text. Perfect for coders who want to romance their partners uniquely!  
