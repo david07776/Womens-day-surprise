@@ -3,7 +3,7 @@
 
 ![Preview](./img/output.png) <!-- Add a GIF/video preview here -->
 
-**Live Demo:** [Link to Your Hosted Website](#) <!-- Add your hosted link here -->  
+**Live Demo:** [https://github.com/Aoudumber-Bade/Womens-day-surprise.git](https://happy-womens-dayy.netlify.app/) <!-- Add your hosted link here -->  
 
 ## 🌟 Story Behind the Code  
 I built this interactive website to surprise my girlfriend on **Women’s Day**! It features a hidden 3D rotating heart, custom cursor animations, and a heartfelt message. When she clicks "OPEN", the love page reveals a **360° interactive heart** with "I LOVE YOU" text. Perfect for coders who want to romance their partners uniquely!  
@@ -30,5 +30,24 @@ I built this interactive website to surprise my girlfriend on **Women’s Day**!
 ## ⚡ Quick Start  
 1. **Clone the repo**:  
    ```bash  
-   git clone https://github.com/your-username/womens-day-surprise.git  
+   git clone https://github.com/Aoudumber-Bade/Womens-day-surprise.git 
 
+## 🌈 Customize for Your Partner  
+1. **Replace text** in `index.html` (line 42) with your message.  
+2. **Tweak heart colors** in `styles.css` (search for `--heart-color` variable).  
+3. **Add your own photos/videos** to the `assets/` folder.  
+
+## 🤝 Contributing  
+Feel free to fork and customize!  
+- Add more animations (e.g., floating particles).  
+- Implement a love letter slider.  
+- Add music on button click.  
+- **Tag me on Insta** if you create a version – I’ll feature it!  
+
+## 💌 Acknowledgments  
+- Inspired by my amazing girlfriend ❤️  
+- Three.js community for 3D magic.  
+- You – for spreading love through code!  
+
+## 📄 License  
+MIT License – *Code with love, share with the world!*  
